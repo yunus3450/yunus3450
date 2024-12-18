@@ -30,7 +30,7 @@
 
 
 ## 📧 Connect with me:  
-[!Email](mailto:yunuspolat3450@gmail.com)  
+[!Email](https://camo.githubusercontent.com/b542162280f479b1b33d87b02c0ba33c96e3b62bc8510db5c97a774c6bcda250/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f476d61696c5f69636f6e5f253238323032302532392e737667)](mailto:yunuspolat3450@gmail.com))  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yunus-polat-8a49b8228/))
 
 
