@@ -4,6 +4,7 @@
 
 ### 💻 Tech Stack:
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -25,6 +26,12 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 
 </p>
+
+
+
+## 📧 Connect with me:  
+- [Email](mailto:yunuspolat3450@gmail.com)  
+- [LinkedIn][(https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yunus-polat-8a49b8228/))  
 
 
 <!--
