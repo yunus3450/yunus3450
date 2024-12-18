@@ -31,8 +31,7 @@
 
 ## 📧 Connect with me:  
 - [Email](mailto:yunuspolat3450@gmail.com)  
-- [LinkedIn][(https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yunus-polat-8a49b8228/))  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 <!--
 **yunus3450/yunus3450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
