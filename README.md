@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'am Yunus. I am a Software Developer!! 👋
 
 <!--
 **yunus3450/yunus3450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
