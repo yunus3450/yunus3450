@@ -31,7 +31,8 @@
 
 ## 📧 Connect with me:  
 [!Email](mailto:yunuspolat3450@gmail.com)  
-[![LinkedIn][(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)][![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yunus-polat-8a49b8228/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yunus-polat-8a49b8228/))
+
 
 
 <!--
